@@ -7,3 +7,9 @@ typedef struct rect{
     int yID;
 
 }Rect;
+
+ typedef struct coordenada{
+    int x;
+    int y;
+
+ }Coordenada;

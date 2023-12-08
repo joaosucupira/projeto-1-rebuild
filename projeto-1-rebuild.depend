@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1702045846 source:c:\users\jasuc\desktop\projeto-1-rebuild\retangulo.c
+	"types.h"
+	"functions.h"
+	<stdio.h>
+
+1702045461 c:\users\jasuc\desktop\projeto-1-rebuild\types.h
+
+1702047148 c:\users\jasuc\desktop\projeto-1-rebuild\functions.h
+	<stdio.h>
+
+1702047045 source:c:\users\jasuc\desktop\projeto-1-rebuild\main.c
+	"types.h"
+	"functions.h"
+	<stdio.h>
+

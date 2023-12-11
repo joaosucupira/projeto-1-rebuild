@@ -7,13 +7,15 @@
 1702083812 c:\users\jasuc\desktop\projeto-1-rebuild\types.h
 	<stdint.h>
 
-1702084208 c:\users\jasuc\desktop\projeto-1-rebuild\functions.h
+1702261065 c:\users\jasuc\desktop\projeto-1-rebuild\functions.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 
-1702084329 source:c:\users\jasuc\desktop\projeto-1-rebuild\main.c
+1702261025 source:c:\users\jasuc\desktop\projeto-1-rebuild\main.c
 	"types.h"
 	"functions.h"
 	<stdio.h>
+	<stdlib.h>
+	<time.h>
 

@@ -29,11 +29,12 @@ void printRect(Rect ret)
 /* Função que preenche valores aleatorios menores que 100 para os pontos*/
 void fillRectUp(Rect* ret)
 {
-    srand(time(NULL));
+
     ret->xID = rand() % 100;
     ret->xSE = rand() % 100;
     ret->yID = rand() % 100;
     ret->ySE = rand() % 100;
+
 }
 
 /** FUNCAO 1: CALCULA INTERSECCAO **/

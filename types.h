@@ -1,3 +1,4 @@
+#include<stdint.h>
 /** Type definitions **/
 
 typedef struct rect{
@@ -13,3 +14,6 @@ typedef struct rect{
     int y;
 
  }Coordenada;
+
+
+

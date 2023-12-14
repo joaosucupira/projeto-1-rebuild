@@ -37,8 +37,18 @@ void fillRectUp(Rect* ret)
 
 }
 
+int pegaX_SE()
+
+
 /** FUNCAO 1: CALCULA INTERSECCAO **/
-int calculaInterseccao(int n_retangulos);
+//int calculaInterseccao(int n_retangulos){
+//    int inter_xSE,inter_xID,inter_ySE,inter_yID;
+//    int i, j, inter_area;
+//
+//
+//
+//
+//}
 
 /** FUNCAO 2: ENCONTRA PAR MAIS PROXIMO **/
-int encontraParMaixProximo(int n_retangulos);
+//int encontraParMaixProximo(int n_retangulos);
